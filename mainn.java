@@ -1,5 +1,5 @@
 public class Main{
-    public static void main(sting(args[])){
+    public static void main(string[]args){
         age=12;
         x='i am';
         y='years old';
