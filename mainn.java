@@ -4,7 +4,7 @@ public class Main{
         x="i am";
         y="years old";
 
-        system.out.printIn('i am'+ age + "years old")
+        System.out.println("i am"+ age + "years old")
 
     }
 }
