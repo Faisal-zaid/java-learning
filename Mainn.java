@@ -1,4 +1,4 @@
-public class Main{
+public class Mainn{
     public static void main(String[]args){
         int age=12;
         // x="i am";
