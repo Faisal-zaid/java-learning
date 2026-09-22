@@ -1,6 +1,6 @@
 public class Main{
-    public static void main(string[]args){
-        age=12;
+    public static void main(String[]args){
+        int age=12;
         x='i am';
         y='years old';
 
