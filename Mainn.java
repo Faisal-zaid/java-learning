@@ -17,3 +17,5 @@ public class Bicycle{
 
     }
 }
+
+Bicycle sportsBicycle=new Bicycle(); // create object
