@@ -8,3 +8,11 @@ public class Mainn{    //the name of the file should be name of the class
 
     }
 }
+
+
+public class Bicycle{
+    public void braking(){
+        system.out.printLin("brakes working");
+
+    }
+}
