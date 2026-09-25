@@ -19,3 +19,6 @@ public class Bicycle{
 }
 
 Bicycle sportsBicycle=new Bicycle(); // create object
+
+sportsBicycle.gear;
+sportsBicycle.braking()
