@@ -11,6 +11,7 @@ public class Mainn{    //the name of the file should be name of the class
 
 
 public class Bicycle{
+    private int gear=5; //state or field
     public void braking(){
         System.out.println("brakes working");
 
